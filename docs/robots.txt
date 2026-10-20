@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://profdrluigi.github.io/MarsRisingGame/sitemap.xml
